@@ -1,0 +1,43 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+main{
+background-color: rgb(3, 58, 37);
+
+}
+.verde{
+background-color: rgb(58, 156, 160);
+min-height: 100vh;
+background-size: cover;
+border:  4px solid ;
+border-color: rgba(159, 161, 161, 0.575);
+border-style: ridge;
+}
+.foto{
+background-image: url(Logo-Veredas.png);
+background-repeat: no-repeat;
+background-size: contain;
+height: 50px;
+margin: 0 ;
+}
+.veredas{
+ color: rgb(130, 165, 147);
+display: flex;
+justify-content: center;
+justify-items: center;
+justify-self: center;
+}
+.oi{
+    color: rgb(55, 138, 95);
+ display: flex;
+justify-content: center;
+justify-items: center;
+}
+h2{ 
+   color: white; 
+display: flex;
+justify-content: flex-start;
+margin: 10px;
+}
